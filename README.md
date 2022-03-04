@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ultra23Ahan
 - 👀 I’m interested in playing Roblox
 - 🌱 I’m currently learning How to get better at Roblox games
-- 💞️ I’m looking to collaborate on 1v1s in roblox bedwars and youtube vids
-- 📫 How to reach me NEVER REACH ME
+- 💞️ I’m looking to collaborate on making you get rekt, 1v1s in roblox bedwars and youtube vids
+- 📫 NEVER REACHE ME 
 
 <!---
 Ultra23Ahan/Ultra23Ahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
