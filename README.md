@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ultra23Ahan
 - 👀 I’m interested in making websites
-- 🌱 I’m currently learning Python, Javascript, Tailwind
+- 🌱 I’m currently learning a lot of stuff, check it out by going to [My Portfolio](https://)
 - 💞️ I’m looking to collaborate on making websites for businesses
 - 📫 Ultra23Ahan is my username on discord
