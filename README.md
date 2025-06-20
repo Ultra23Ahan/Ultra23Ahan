@@ -7,6 +7,6 @@
 My Technologies: <br />
 <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,apple,python,tailwind,figma,ts,vercel,vite,bash,pnpm,npm,vscode&theme=dark&perline=8" align="center"><br />
 <br />
-[![](https://github-readme-stats.vercel.app/api?username=Ultra23Ahan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahan's Stats](https://github-readme-stats.vercel.app/api?username=Ultra23Ahan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
