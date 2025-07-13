@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning a lot of stuff, check it out by going to [My Portfolio](https://portfolio-v2-ultra23ahans-projects.vercel.app)
 - 💞️ I’m looking to collaborate on making websites for small businesses/startups
 - 📫 Ultra23Ahan is my username on discord
+- I love learning new things and getting feedback so I can always improve and get better
 
 
 My Technologies:
