@@ -6,7 +6,7 @@
 - I love learning new things and getting feedback so I can always improve and get better
 - I'm currently 14
 - I dont watch anime but I have luffy as my profile pic because yes 👍🏼
-- By hobbies are coding(ofc) and cubing(solving rubiks cubes really fast my fatest is 21 seconds)
+- By hobbies are coding(ofc) and cubing(solving rubiks cubes really fast btw my fastest is 20 seconds)
 My Technologies:
 
 <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,apple,python,tailwind,figma,ts,vercel,vite,bash,pnpm,npm,vscode&theme=dark&perline=8" align="center"><br />
